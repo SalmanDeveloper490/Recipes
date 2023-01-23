@@ -1,0 +1,43 @@
+.w-full {
+  width: 100%;
+  display: block;
+}
+.logo {
+  width: 200px;
+  min-width: 50px;
+}
+#customButton {
+  background: transparent;
+  font-weight: bold;
+  color: #f15025;
+  border: 1px solid #f15025;
+  text-transform: uppercase;
+}
+.menuLinks {
+  list-style-type: none;
+  padding-left: 0px;
+}
+.menuLinks li {
+  margin-top: 30px;
+}
+.menuLinks li a {
+  text-decoration: none;
+  color: #000;
+  font-size: 24px;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.card-title {
+  font-size: 27px;
+}
+.letters {
+  color: #000;
+  text-decoration: none;
+  letter-spacing: 16px;
+}
+.flexWrapper {
+  width: 100%;
+}
+.flexWrapper div {
+  width: 50%;
+}
